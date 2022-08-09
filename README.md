@@ -1,0 +1,98 @@
+- 0100 - Attack Surface
+    - 0110 - Attack-happens
+    - 0120 - Cloud-defence-in-depth
+    - 0130 - 4C
+    - 0140 - ATT&CK Matrix
+    
+- 0200 - Cluster Hardening
+    - 0210 - CIS Benchmark
+    - 0212 - CIS Kubernetes
+    - 0215 - Kube-bench
+    - 0216 - Kube-hunter ???
+    - 0217 - Kubescape ???
+    - 0220 - Security Primitives
+    - 0222 - Authentication
+    - 0224 - Service Accounts
+    - 0226 - TLS Introduction
+    - 0228 - TLS Basics
+    - 0230 - TLS in Kubernetes
+    - 0232 - TLS in Kubernetes – Certificate Creation
+    - 0234 - View Certificate Details
+    - 0236 - KubeConfig
+    - 0240 - API Groups
+    - 0242 - Authorization
+    - 0244 - RBAC
+    - 0246 - Cluster Roles and Role Bindings
+    - 0248 - Cert API
+    - 0250 - Kubelet-security
+    - 0255 - Kubectl-proxy
+    - 0260 - Kubernetes-dashboard
+    - 0270 - Secure-dashboard
+    - 0275 - Kubernetes-binaries
+    - 0280 - Kubernetes Software Versions
+    - 0282 - Cluster Upgrade Process    
+    - 0285 - Network Policy
+    - 0287 - Developing Network Policies
+    - 0289 - Protect Node Metadata via NetworkPolicy ???
+    - 0292 - Docker-service
+    - 0295 - Dockerd
+
+- 0300 - System Hardening
+    - 0305 - Least-privilege
+    - 0310 - Host-OS-footprint
+    - 0312 - Node-access
+    - 0315 - SSH-restrict
+    - 0317 - Privilege-escalation
+    - 0320 - Obsolete-packages
+    - 0322 - Kernel-modules
+    - 0325 - Open Ports
+    - 0330 - IAM-roles
+    - 0332 - Network-access
+    - 0335 - Linux-firewall
+    - 0337 - Linux-syscalls
+    - 0350 - Aquasec-tracee
+    - 0355 - Restrict-syscalls
+    - 0357 - Seccomp-in-kube
+    - 0360 - Apparmor
+    - 0362 - Apparmor-profiles
+    - 0365 - Apparmor-in-kube
+    - 0370 - Linux-capabiliies
+    
+- 0400 - Minimize Microservice Vulnerabilities
+    - 0405 - Security-contexts
+    - 0407 - Secrets
+    - 0410 - Admission-controllers
+    - 0415 - Validating-mutating
+    - 0420 - Pod-security-policies
+    - 0422 - Pod-security
+    - 0425 - Open-policy-agent
+    - 0430 - OPA-in-kube
+    - 0432 - OPA-Gatekeeper
+    - 0435 - Demo-dirtypipe ???
+    - 0440 - Container-sandboxing
+    - 0445 - gVisor
+    - 0450 - Kata-containers
+    - 0455 - Container-runtimes
+    - 0460 - Runtime-classes
+    - 0465 - SSL-oneway-mutual
+    - 0470 - Pod-to-pod-encryption
+
+- 0500 - Supply Chain Security
+    - 0505 - Base-image-footprint
+    - 0510 - Image Security
+    - 0515 - Allowed-registries
+    - 0520 - Use-static-analysis
+    - 0525 - Scan-images
+    - 0530 - Image-signing
+    - 0535 - Cosign-kube
+    
+- 0600 - Monitoring, Logging and Runtime Security
+    - 0605 - Behavioral-analytics
+    - 0610 - Falco-overview
+    - 0615 - Use-Falco
+    - 0620 - Falco-configuration
+    - 0630 - Mutable-immutable
+    - 0635 - Ensure-immutability
+    - 0640 - Audit-logs
+    
+- 0700 - Mock Exams
