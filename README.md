@@ -5,10 +5,10 @@
     - 0140 - ATT&CK Matrix
     
 - 0200 - Cluster Hardening
-    - 0210 - CIS Benchmark
-    - 0212 - CIS Kubernetes
-    - 0215 - Kube-bench
-    - 0216 - Kube-hunter ???
+    - 0205 - CIS Benchmark
+    - 0210 - CIS Kubernetes
+    - 0212 - Kube-bench
+    - 0215 - Kube-hunter ???
     - 0217 - Kubescape ???
     - 0220 - Security Primitives
     - 0222 - Authentication
