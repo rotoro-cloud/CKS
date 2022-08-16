@@ -114,6 +114,7 @@
 
 - 0500 - Supply Chain Security
     - 0505 - Base-image-footprint
+      - lab (Build image with decreased footprint + docker-slim?)
     - 0510 - Image Security
       - labCKA
     - 0515 - Allowed-registries
