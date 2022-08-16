@@ -6,93 +6,136 @@
     
 - 0200 - Cluster Hardening
     - 0205 - CIS Benchmark
+      - lab
     - 0210 - CIS Kubernetes
     - 0212 - Kube-bench
+      - lab
     - 0215 - Kube-hunter ???
     - 0217 - Kubescape ???
     - 0220 - Security Primitives
     - 0222 - Authentication
     - 0224 - Service Accounts
+      - labCKAD
     - 0226 - TLS Introduction
     - 0228 - TLS Basics
     - 0230 - TLS in Kubernetes
     - 0232 - TLS in Kubernetes – Certificate Creation
     - 0234 - View Certificate Details
-    - 0236 - KubeConfig
+      - labCKA
+    - 0236 - Cert API
+      - labCKA
+    - 0238 - KubeConfig
+      - labCKA
     - 0240 - API Groups
     - 0242 - Authorization
     - 0244 - RBAC
+      - labCKA
     - 0246 - Cluster Roles and Role Bindings
-    - 0248 - Cert API
+      - labCKA
     - 0250 - Kubelet-security
+      - lab
     - 0255 - Kubectl-proxy
+      - lab
     - 0260 - Kubernetes-dashboard
     - 0270 - Secure-dashboard
+      - lab
     - 0275 - Kubernetes-binaries
+      - lab
     - 0280 - Kubernetes Software Versions
     - 0282 - Cluster Upgrade Process    
     - 0285 - Network Policy
     - 0287 - Developing Network Policies
-    - 0289 - Protect Node Metadata via NetworkPolicy ???
-    - 0292 - Docker-service
-    - 0295 - Dockerd
+      - lab
+    - 0289 - Ingress
+      - labCKA
+      - labCKA
+      - lab (Protect Node Metadata via NetworkPolicy + secure ingress TLS)
+    - 0295 - Docker-service
+    - 0297 - Dockerd
 
 - 0300 - System Hardening
     - 0305 - Least-privilege
     - 0310 - Host-OS-footprint
     - 0312 - Node-access
+      - lab
     - 0315 - SSH-restrict
     - 0317 - Privilege-escalation
+      - lab
     - 0320 - Obsolete-packages
     - 0322 - Kernel-modules
     - 0325 - Open Ports
+      - lab
     - 0330 - IAM-roles
     - 0332 - Network-access
     - 0335 - Linux-firewall
+      - lab
     - 0337 - Linux-syscalls
     - 0350 - Aquasec-tracee
     - 0355 - Restrict-syscalls
     - 0357 - Seccomp-in-kube
+      - lab
     - 0360 - Apparmor
     - 0362 - Apparmor-profiles
     - 0365 - Apparmor-in-kube
     - 0370 - Linux-capabiliies
+      - lab
     
 - 0400 - Minimize Microservice Vulnerabilities
     - 0405 - Security-contexts
+      - labCKA
     - 0407 - Secrets
+      - labCKA
+    - 0408 - ETCD Encryption
+      - lab
     - 0410 - Admission-controllers
+      - labCKAD
     - 0415 - Validating-mutating
+      - labCKAD
     - 0420 - Pod-security-policies
+      - lab
     - 0422 - Pod-security
+      - lab
     - 0425 - Open-policy-agent
+      - lab
     - 0430 - OPA-in-kube
+      - lab
     - 0432 - OPA-Gatekeeper
+      - lab
     - 0435 - Demo-dirtypipe ???
     - 0440 - Container-sandboxing
     - 0445 - gVisor
+      - lab (Install gVisor and run container on node)
     - 0450 - Kata-containers
     - 0455 - Container-runtimes
     - 0460 - Runtime-classes
+      - lab
     - 0465 - SSL-oneway-mutual
     - 0470 - Pod-to-pod-encryption
 
 - 0500 - Supply Chain Security
     - 0505 - Base-image-footprint
     - 0510 - Image Security
+      - labCKA
     - 0515 - Allowed-registries
+      - lab
     - 0520 - Use-static-analysis
+      - lab
     - 0525 - Scan-images
+      - lab
     - 0530 - Image-signing
     - 0535 - Cosign-kube
+      - lab
     
 - 0600 - Monitoring, Logging and Runtime Security
     - 0605 - Behavioral-analytics
     - 0610 - Falco-overview
     - 0615 - Use-Falco
+      - lab
     - 0620 - Falco-configuration
     - 0630 - Mutable-immutable
     - 0635 - Ensure-immutability
+      - lab
     - 0640 - Audit-logs
+      - lab
     
 - 0700 - Mock Exams
