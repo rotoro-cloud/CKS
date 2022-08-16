@@ -45,7 +45,7 @@
     - 0282 - Cluster Upgrade Process    
     - 0285 - Network Policy
     - 0287 - Developing Network Policies
-      - lab
+      - labCKA
     - 0289 - Ingress
       - labCKA
       - labCKA
