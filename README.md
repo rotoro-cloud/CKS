@@ -16,7 +16,7 @@
     - 0222 - Authentication
     - 0224 - Service Accounts
       - labCKAD
-    - 0226 - TLS Introduction
+    - 0226 - TLS Introduction ???
     - 0228 - TLS Basics
     - 0230 - TLS in Kubernetes
     - 0232 - TLS in Kubernetes – Certificate Creation
