@@ -14,7 +14,7 @@
     - 0220 - Security Primitives
     - 0222 - Authentication
     - 0224 - Service Accounts
-    - 0226 - Service Update
+    - 0226 - Service Accounts 1.24+
       - labCKAD
     - 0228 - TLS Basics
     - 0230 - TLS in Kubernetes
