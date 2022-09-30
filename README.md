@@ -10,13 +10,12 @@
     - 0210 - CIS Kubernetes
     - 0212 - Kube-bench
       - lab
-    - 0215 - Kube-hunter ???
-    - 0217 - Kubescape ???
+    - 0217 - Kubescape
     - 0220 - Security Primitives
     - 0222 - Authentication
     - 0224 - Service Accounts
+    - 0226 - Service Update
       - labCKAD
-    - 0226 - TLS Introduction ???
     - 0228 - TLS Basics
     - 0230 - TLS in Kubernetes
     - 0232 - TLS in Kubernetes – Certificate Creation
