@@ -76,6 +76,7 @@
     - 0360 - Apparmor
     - 0362 - Apparmor-profiles
     - 0365 - Apparmor-in-kube
+      - lab
     - 0370 - Linux-capabiliies
       - lab
     
@@ -84,8 +85,6 @@
       - labCKA
     - 0407 - Secrets
       - labCKA
-    - 0408 - ETCD Encryption
-      - lab
     - 0410 - Admission-controllers
       - labCKAD
     - 0415 - Validating-mutating
@@ -110,6 +109,8 @@
       - lab
     - 0465 - SSL-oneway-mutual
     - 0470 - Pod-to-pod-encryption
+    - 0475 - ETCD Encryption
+      - lab
 
 - 0500 - Supply Chain Security
     - 0505 - Base-image-footprint
