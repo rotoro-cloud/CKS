@@ -99,7 +99,6 @@
       - lab
     - 0432 - OPA-Gatekeeper
       - lab
-    - 0435 - Demo-dirtypipe ???
     - 0440 - Container-sandboxing
     - 0445 - gVisor
       - lab (Install gVisor and run container on node)
