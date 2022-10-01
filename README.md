@@ -3,6 +3,7 @@
     - 0120 - Cloud-defence-in-depth
     - 0130 - 4C
     - 0140 - ATT&CK Matrix
+      - lab
     
 - 0200 - Cluster Hardening
     - 0205 - CIS Benchmark
@@ -78,7 +79,6 @@
     - 0365 - Apparmor-in-kube
       - lab
     - 0370 - Linux-capabiliies
-      - lab
     
 - 0400 - Minimize Microservice Vulnerabilities
     - 0405 - Security-contexts
