@@ -42,7 +42,8 @@
     - 0275 - Kubernetes-binaries
       - lab
     - 0280 - Kubernetes Software Versions
-    - 0282 - Cluster Upgrade Process    
+    - 0282 - Cluster Upgrade Process
+      - LAB???
     - 0285 - Network Policy
     - 0287 - Developing Network Policies
       - labCKA
