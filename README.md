@@ -53,6 +53,7 @@
       - lab (Protect Node Metadata via NetworkPolicy + secure ingress TLS)
     - 0295 - Docker-service
     - 0297 - Dockerd
+    - 0297 - Containerd
 
 - 0300 - System Hardening
     - 0305 - Least-privilege
